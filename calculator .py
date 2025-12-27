@@ -1,0 +1,9 @@
+num1 = 90 
+num2 = 45
+print("90 + 45 =", num1+num2) 
+print("90 - 45 =", num1-num2)
+print("90 * 45 =", num1*num2)
+print("90 / 45 =", num1/num2)
+print("90 % 45 =", num1%num2)
+print("90 // 45 =", num1%num2)
+print("90 ** 45 =", num1**num2)
